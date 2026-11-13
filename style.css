@@ -1,7 +1,7 @@
-:root { --bg: #fff6ee; --card: #ffffff; --text: #4a3b40; --sub: #a08f94; --accent: #ff7f8e; --line: #f3d9c9; }
+:root { --bg: #ffffff; --card: #effdf1; --text: #143625; --sub: #587a66; --accent: #2d6a4f; --line: #d0ded2; }
 * { box-sizing: border-box; }
 body { margin: 0; background: var(--bg); color: var(--text);
-  font-family: -apple-system, "Hiragino Maru Gothic ProN", "Hiragino Sans", "Noto Sans JP", sans-serif; line-height: 1.8; }
+  font-family: -apple-system, "Hiragino Sans", "Noto Sans JP", sans-serif; line-height: 1.8; }
 main { max-width: 680px; margin: 0 auto; padding: 40px 16px 64px; }
 header { display: flex; align-items: center; gap: 14px; margin-bottom: 8px; }
 .icon { width: 56px; height: 56px; border-radius: 13px; flex: none; }
